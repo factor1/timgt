@@ -1,0 +1,34 @@
+form.wufoo {
+	padding: 20px;
+	background: #FEFEF6;
+}
+input.text,
+input.search,
+textarea.textarea {
+	border-radius: 3px;
+}
+
+form.wufoo li.focused {
+	background-color: #E4EFF3;
+}
+
+.info[class] {
+	display: none;
+}
+
+.wufoo .section h3 {
+	color: #fff;
+	background-color: #1c2a3f;
+	line-height: 30px;
+	padding: 0 0 0 10px;
+	border: 1px solid #1C2A3F;
+}
+form li.section.scrollText h3 {
+	background: transparent;
+	padding-top: 0;
+}
+
+.submit {
+	margin: 0 auto;
+	display: block;
+}
