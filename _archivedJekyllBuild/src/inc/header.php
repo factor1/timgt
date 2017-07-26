@@ -1,5 +1,5 @@
 <header id="header_top" class="header">
-    <a href="/" title="" class="big_logo hidden-phone"><img src="/img/logo.png" alt=""></a>
+    <a href="/" title="" class="big_logo hidden-phone"><img src="img/logo.png" alt=""></a>
     <div class="mobile_nav">
         <a href="/" title="" class="small_logo"></a>
         <a href="" title="" id="show_nav" class="mobile_menu"></a>

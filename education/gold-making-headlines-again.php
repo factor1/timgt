@@ -11,7 +11,7 @@
 
         <?php include '../inc/com_css.php' ?>
 
-        <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="/~timgt/js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
 
@@ -29,7 +29,7 @@
                 <div class="education-article__content">
                   <h1 class="education-article__heading">Gold Making Headlines Again</h1>
 
-                  <p><img src="/img/education/did-you-know-yellow.jpg" alt=""></p>
+                  <p><img src="img/education/did-you-know-yellow.jpg" alt=""></p>
 
 <p>Gold is beginning to make headlines once again. Since the start of 2016, gold is one of the best performing asset classes in the investing world. Investors are beginning to take notice and are contemplating whether the worst is over for the precious metals.</p>
 
@@ -65,7 +65,7 @@
 
 <h3>Types of Gold Investments : Explained</h3>
 
-<p><img src="/vol4/table.png" alt=""></p>
+<p><img src="vol4/table.png" alt=""></p>
 
 <p>Depending on your risk tolerance, gold could make up anywhere between 3-10% of your overall portfolio. It is probably not wise to allocate much more than that because the world is only going to end once and how are you going to collect all those profits if it actually does? We have all seen the TV commercials, “The world is ending – buy gold.” Unfortunately for people who heeded that advice during the past five years, the world is still here and they have big losses. Although no one knows if gold will get back to the all-time highs near $2000, the landscape may be changing for further gains in gold with negative rates, increasing inflation and the US dollar being the main drivers.</p>
 

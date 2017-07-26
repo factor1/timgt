@@ -26,7 +26,7 @@
                         <!-- <a href="" title="" target="_blank" class="social_icon tw"></a> -->
                     </div>
 		    
-                    <a href="http://www.bbb.org/phoenix/business-reviews/financial-planning-consultants/total-investment-management-inc-in-scottsdale-az-1000035757" title="BBB" class="bbb" target="_blank"><img src="/img/bbb.png" alt="BBB"></a>
+                    <a href="http://www.bbb.org/phoenix/business-reviews/financial-planning-consultants/total-investment-management-inc-in-scottsdale-az-1000035757" title="BBB" class="bbb" target="_blank"><img src="img/bbb.png" alt="BBB"></a>
 
                     <div class="credit">
                         <a href="http://www.koda.agency" title="KODA" target="_blank">Branding and website by KODA</a>

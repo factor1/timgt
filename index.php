@@ -29,15 +29,15 @@
           }
         </style>
 
-        <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="/~timgt/js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
 
         <?php include 'inc/header.php' ?>
 
-        <section class="hero home_hero" style="background-image:url(/img/terminal-bg.jpg);background-position:center bottom;height:500px">
+        <section class="hero home_hero" style="background-image:url(/~timgt/img/terminal-bg.jpg);background-position:center bottom;height:500px">
             <div class="container-fluid">
-                <img src="/img/attn-crew.png" alt="" style="width:100%;max-width:500px">
+                <img src="/~timgt/img/attn-crew.png" alt="" style="width:100%;max-width:500px">
                 <p style="font-size:28px;margin-bottom:0">You’ve got a flight plan.</p>
                 <p style="font-size:28px">How about a financial plan?</p>
             </div>

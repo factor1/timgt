@@ -1,6 +1,6 @@
 				<div id="sidebar1" class="fluid-sidebar sidebar" role="complementary">
                                   <div class="subscribe blog">
-                                    <img src="/img/circle-icon-txt.png" alt="">
+                                    <img src="img/circle-icon-txt.png" alt="">
                                     <h3>Subscribe</h3>
                                     <div class="wrapped">
                                       <p>Timely TIM Information Sent Directly to Your Phone</p>

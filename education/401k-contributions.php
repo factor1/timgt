@@ -11,7 +11,7 @@
 
         <?php include '../inc/com_css.php' ?>
 
-        <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="/~timgt/js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
 
@@ -47,7 +47,7 @@
 
 <p>Here is a graphical display of the projected 401(k) balances and possible income achieved from those portfolio values. We used an United Pilot as an example but these numbers will be very similar across all carriers.</p>
 
-<p><img src="/img/education/graph-401k.png" alt=""></p>
+<p><img src="img/education/graph-401k.png" alt=""></p>
 
 <p>The above chart compares the hypothetical values of a PRAP portfolio and the spending that would be available from a pilot’s PRAP account accumulation:</p>
 

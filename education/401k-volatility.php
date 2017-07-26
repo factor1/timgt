@@ -11,7 +11,7 @@
 
         <?php include '../inc/com_css.php' ?>
 
-        <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="/~timgt/js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
 
@@ -29,7 +29,7 @@
                 <div class="education-article__content">
                   <h1 class="education-article__heading">Did you know: 401K turbulence, what does it mean?</h1>
 
-                  <p><img src="/img/education/did-you-know-blue.jpg" alt=""></p>
+                  <p><img src="img/education/did-you-know-blue.jpg" alt=""></p>
 
 <h3>Investors are questioning why the market has been trading wildly since the start of the year.</h3>
 
@@ -72,7 +72,7 @@
 
 <p>Talk to your financial advisor on what plans they have for a more volatile market. Knowing how your portfolio is positioned to weather that volatility will help you feel more secure.</p>
 
-<p><img src="/img/education/graph.png" alt=""></p>
+<p><img src="img/education/graph.png" alt=""></p>
 
 <p><em>For the 6-week time period from the end of December to early February the S&amp;P 500 moved 3.5% (up or down) a total of 6 times.</em></p>
 

@@ -11,7 +11,7 @@
 
         <?php include '../inc/com_css.php' ?>
 
-        <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="/~timgt/js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
 
@@ -29,13 +29,13 @@
                 <div class="education-article__content">
                   <h1 class="education-article__heading">Risk Reduction in a Bear Market can Drive Positive Long-Term Results</h1>
 
-                  <p><img src="/img/education/did-you-know-orange.jpg" alt=""></p>
+                  <p><img src="img/education/did-you-know-orange.jpg" alt=""></p>
 
 <p>Many stock market studies show that “timing the market” doesn’t really work. An often misunderstood concept, market timing is defined by the mutual fund industry and financial media as the process of attempting to perfectly time your buying (at market bottoms) and selling (at market tops) activity. Of course, no one can perfectly time the market consistently, so mutual fund companies have developed marketing strategies that illustrate the impact of “misses.”</p>
 
 <p>To add credibility to their argument, they show how missing the best up days in the market can lead to sub-par results (see the blue line). This is true. However, perhaps more important is what happens when you miss the worst days in the market (see the red line).</p>
 
-<p><img src="/img/education/graph-did-you-know-3.png" alt=""></p>
+<p><img src="img/education/graph-did-you-know-3.png" alt=""></p>
 
 <p>Total Investment Management, Inc. offers this commentary strictly to educate, inform and share our thoughts on the markets. Nothing here should be construed as investment advice. Past performance is no guarantee of future results.</p>
 
@@ -52,7 +52,7 @@
 
 <p>For example, a share of stock declining 20% must then increase 25% just to break even. Here’s why: A price that decreases 20%, from $100 to $80, must then gain 25% of its present value ($80/$20 = 25%) to get back to the original $100. This concept is outlined below.</p>
 
-<p><img src="/img/education/graph-did-you-know-4.png" alt=""></p>
+<p><img src="img/education/graph-did-you-know-4.png" alt=""></p>
 
 <p>Occasional negative annual returns are part of investing for the long term. However, in light of the math above, it helps to keep losses to a minimum during big market declines so it takes less time to “break even.”</p>
 

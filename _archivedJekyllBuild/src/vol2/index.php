@@ -526,7 +526,7 @@
 
         <?php include '../inc/com_js.php' ?>
 
-        <script src="/js/parsley.min.js"></script>
+        <script src="/~timgt/js/parsley.min.js"></script>
 
         <script>
             $(function () {
