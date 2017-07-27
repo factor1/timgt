@@ -33,3 +33,7 @@ node_modules
 composer_libraries
 composer.phar
 src/market-update-password.json
+
+blog/plugins/
+
+blog/wp
