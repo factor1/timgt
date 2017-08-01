@@ -1,0 +1,49 @@
+div.radio,
+div.radio:hover,
+div.checker,
+div.checker:hover {
+	height: 20px;
+	width: 20px;
+	background: #E7EBEE;
+	border-top: 1px solid #BABDBF;
+	border-radius: 50%;
+	cursor: pointer;
+}
+div.checker,
+div.checker:hover {
+	border-radius: 4px;
+}
+
+div.checker span.checked,
+div.checker:hover span.checked,
+div.radio span.checked,
+div.radio:hover span.checked,
+div.radio:hover span.checked:hover {
+	background: url(i/checkmark.png) center no-repeat;
+	cursor: pointer;
+}
+
+div.selector {
+	width: 96%;
+	height: 46px;
+	border: 0;
+	border-top: 1px solid #BABDBF;
+	border-radius: 4px;
+	margin-bottom: 13px;
+	background: #E7EBEE;
+	font-size: 1.8em;
+	line-height: 1.8;
+	padding: 0 2%;
+	color: #1C2A3F;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+	background-image: url(i/select-arrow.png);
+	background-position: right center;
+	background-repeat: no-repeat;
+}
+div.selector span,
+div.selector:hover span {
+	line-height: 50px;
+	height: 46px;
+}
