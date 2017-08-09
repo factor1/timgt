@@ -9,7 +9,6 @@
             <div class="span6">
                 <div class="foot_contact clearfix">
                     800.962.1180<br>
-                    480.998.5735<br>
 
                     <div class="foot_social clearfix">
                         <a href="http://www.linkedin.com/company/total-investment-management?trk=ppro_cprof" title="" target="_blank" class="social_icon in"></a>

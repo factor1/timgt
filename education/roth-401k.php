@@ -11,7 +11,7 @@
 
         <?php include '../inc/com_css.php' ?>
 
-        <script src="/~timgt/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
 
