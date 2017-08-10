@@ -1,7 +1,7 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/plugins.js"></script>
-<script src="/js/main.js?090315"></script>
+<script src="/~timgt/js/bootstrap.min.js"></script>
+<script src="/~timgt/js/plugins.js"></script>
+<script src="/~timgt/js/main.js?090315"></script>
 
 <script>
   if (!Modernizr.touch) {
