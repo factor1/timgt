@@ -12,7 +12,7 @@
 
         <?php include 'inc/com_css.php' ?>
 
-        <script src="/~timgt/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
 
@@ -32,8 +32,7 @@
                     <div class="span4">
                         <article class="contact_method phone">
                             <h3>Phone</h3>
-                            480.998.7866<br>
-                            800.962.1180
+                            800.962.1180<br>
                         </article>
                     </div>
                 </div>
