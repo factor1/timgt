@@ -11,7 +11,7 @@
 
         <?php include '../inc/com_css.php' ?>
 
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="../js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
 
@@ -31,7 +31,7 @@
 
                   <p>Have you ever wondered exactly when you’ll be able to retire? The answer to that question is no different than the answer to many questions in personal finance – it depends. Although nothing is guaranteed, we have a process in place to position our clients to have the best probability of success in retirement. Read this article if you would like to understand more about the process and what type of retirement questions we can answer.</p>
 
-<p><a href="/files/ClientBrochure.pdf" title="Client Brochure" style="float:left;color:#515d67;font-size:20px;line-height:60px"><img src="img/file-pdf.svg" alt="PDF" style="float:left;width:50px;margin-right:20px;">Download Article</a></p>
+<p><a href="../files/ClientBrochure.pdf" title="Client Brochure" style="float:left;color:#515d67;font-size:20px;line-height:60px"><img src="img/file-pdf.svg" alt="PDF" style="float:left;width:50px;margin-right:20px;">Download Article</a></p>
 
                 </div>
               </div>
