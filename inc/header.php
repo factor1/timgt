@@ -1,4 +1,3 @@
-<?php include 'inc/globals.php' ?>
 <header id="header_top" class="header">
     <a href="/" title="" class="big_logo hidden-phone"><img src="img/logo.png" alt=""></a>
     <div class="mobile_nav">
