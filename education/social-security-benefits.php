@@ -11,7 +11,7 @@
 
         <?php include '../inc/com_css.php' ?>
 
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="../js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
 
@@ -31,7 +31,7 @@
 
                   <p>For those wondering when to take social security retirement benefits, having the funds sooner rather than later sounds nice, but does it really work to your benefit? We have the tools and resources in place to help our clients make this very important decision. Most people don’t understand how much their social security is really worth. If they were made aware of the potential money being left on the table, they would take more time analyzing the different options available to them. Read this article if you want to see how we help clients make this decision; by reviewing all available options and seeing what option makes the most sense for them.</p>
 
-<p><a href="/files/SocialSecurityBrochure.pdf" title="Social Security Brochure" style="float:left;color:#515d67;font-size:20px;line-height:60px"><img src="img/file-pdf.svg" alt="PDF" style="float:left;width:50px;margin-right:20px;">Download Article</a></p>
+<p><a href="../files/SocialSecurityBrochure.pdf" title="Social Security Brochure" style="float:left;color:#515d67;font-size:20px;line-height:60px"><img src="img/file-pdf.svg" alt="PDF" style="float:left;width:50px;margin-right:20px;">Download Article</a></p>
 
                 </div>
               </div>
