@@ -57,7 +57,7 @@
                     <div class="span3">
                         <article>
                             <h3 style="margin-bottom:30px;">Taxes</h3>
-                            <p class="just">TIM through its strategic partner, <a href="http://www.sonorantax.com/" title="">Sonoran Tax & Accounting</a> provides personal tax return preparation services either a la carte or as an included service for Premier clients. Tax preparation differs from profession to profession. Therefore, having an experienced tax advisory firm who knows the aviation industry helps clients achieve the best possible outcome. Let an experienced tax professional make sure you are paying what you should and not a penny more.</p>
+                            <p class="just">TIM, through its strategic partner, <a href="http://www.sonorantax.com/" title="">Sonoran Tax & Accounting</a> provides personal tax return preparation services either a la carte or as an included service for Premier clients. Tax preparation differs from profession to profession. Therefore, having an experienced tax advisory firm who knows the aviation industry helps clients achieve the best possible outcome. Let an experienced tax professional make sure you are paying what you should and not a penny more.</p>
                         </article>
                     </div>
                     <div class="span3">
@@ -79,6 +79,11 @@
                         </article>
                     </div>
 
+                </div><br>
+                <div class="row-fluid">
+                  <div class="span12">
+                    <p class="disclosure-language">TIM maintains a relationship with independent, third-party accounting services, law firms, and insurance agents whereby it may refercertainclients to these specialists or consultants for individual tax preparation, estate planning, and insurance productsas part of its overall service offeringto clients to ensure their complete financial picturemay be reviewed and/or addressed.  While these third-party providers are independent of and unaffiliated with TIM, a conflict of interest exists, in the formof an indirect economic benefitor additional compensation may be earned by TIM and/orthe third-party. Clients are under no obligation to engage any third-party referral. TIM seeks to ensure that all such engagements proceed in its clients’ best interests.</p>
+                  </div>
                 </div>
             </div>
         </section>
