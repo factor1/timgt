@@ -278,7 +278,7 @@
                     </div>
                     <div class="span4">
                         <article class="highlight">
-                            <p class="number"><sup>$</sup>700+</p>
+                            <p class="number"><sup>$</sup>900+</p>
                             Million<br>Managed
                         </article>
                     </div>
