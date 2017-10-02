@@ -11,7 +11,7 @@
 
         <?php include '../inc/com_css.php' ?>
 
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="../js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
 
@@ -29,13 +29,13 @@
                 <div class="education-article__content">
                   <h1 class="education-article__heading">Why is the average investor's investment return so low?</h1>
 
-                  <p><img src="img/education/did-you-know-green.jpg" alt=""></p>
+                  <p><img src="../img/education/did-you-know-green.jpg" alt=""></p>
 
 <p>It has been known for some time now that individual investors do not typically fare well in their efforts at do-it-yourself investing. This idea has been tested and validated by a number of studies. According to the most recent data on investor returns, the average investor in an allocation of stocks and bonds returned only a 2.6%* annualized rate of return for the 10 years ended December 31, 2013.</p>
 
 <p>It is plain to see from the chart below that the average investor has greatly underperformed most asset classes over the past 20 years and has barely exceeded the rate of inflation. Why does this happen?</p>
 
-<p><img src="img/education/graph-did-you-know-22.png" alt=""></p>
+<p><img src="../img/education/graph-did-you-know-22.png" alt=""></p>
 
 <h3>Emotions</h3>
 
