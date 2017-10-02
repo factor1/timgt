@@ -57,18 +57,17 @@
                                         <li><a href="https://nb.fidelity.com/public/nb/aa/home" title="" target="_blank">American / US Airways</a>
                                         <li><a href="https://nb.fidelity.com/public/nb/401k/home" title="" target="_blank">Delta</a>
                                         <li><a href="https://investor.vanguard.com/corporate-portal" title="" target="_blank">FedEx</a>
-                                        <li><a href="https://troweprice.com" title="" target="_blank">Jet Blue</a>
+                                        <li><a href="https://www.blueretirement.com" title="" target="_blank">Jet Blue</a>
                                         <li><a href="http://www.schwabplan.com" title="" target="_blank">Netjets</a>
-                                        <li><a href="https://www.retireonline.com/rpsparticipant/splash.jsp" title="" target="_blank">Southwest Flight Attendants</a>
+                                        <li><a href="https://www.freedomtoretire.com" title="" target="_blank">Southwest Flight Attendants</a>
                                     </ul>
                                 </div>
                                 <div class="span6">
                                     <ul class="arrow_list">
-                                        <li><a href="https://www.retireonline.com/rpsparticipant/splash.jsp" title="" target="_blank">Southwest Mechanics</a>
-                                        <li><a href="https://401kaccess.com/parts/login_1.html" title="" target="_blank">Southwest Pilots</a>
-                                        <li><a href="https://www.retireonline.com/rpsparticipant/splash.jsp" title="" target="_blank">Southwest Profit Sharing</a>
+                                        <li><a href="https://www.freedomtoretire.com" title="" target="_blank">Southwest Mechanics</a>
+                                        <li><a href="https://www.schwabplan.com" title="" target="_blank">Southwest Pilots</a>
+                                        <li><a href="https://www.freedomtoretire.com" title="" target="_blank">Southwest Profit Sharing</a>
                                         <li><a href="http://www.schwabplan.com/prap" title="" target="_blank">United Airlines Pilot Retirement Account Plan (PRAP)</a>
-                                        <li><a href="http://resources.hewitt.com/continental/" title="" target="_blank">Continental Flight Attendants</a>
                                         <li><a href="https://nb.fidelity.com/public/nb/401k/home" title="" target="_blank">United Airlines Flight Attendants</a>
                                         <li><a href="https://www.schwab.com/public/schwab/client_home" title="" target="_blank">United Airlines Schwab PCRA</a>
                                         <li><a href="https://nb.fidelity.com/public/nb/401k/home" title="" target="_blank">UPS</a>

@@ -51,7 +51,7 @@
                       </div>
                   </div>
                   <div class="span7">
-                      <p class="just">Total Investment Management, Inc. is a Registered Investment Advisor (RIA) founded in 1991 by former military and commercial pilots John E. Foster II and James Hughes under the original name, HFG Asset Allocation Service. The name was later changed in 1998 to Total Investment Management, Inc. (TIM) to better reflect the growing services we were providing to aviation professionals. Since 1998, the firm has evolved into a full service financial advisory firm. In 2008, TIM decided to become a true fiduciary of clients’ assets by becoming a nationally registered investment advisor (RIA). We believe the RIA structure is the most transparent way for an investor to work with a financial advisor. This is because RIA’s are held to a fiduciary standard and collect their revenue based mainly on fees and not commissions.</p>
+                      <p class="just">Total Investment Management, Inc. is a Registered Investment Advisor founded in 1991 by former military and commercial pilots John E. Foster II and James Hughes under the original name, HFG Asset Allocation Service. The name was later changed in 1998 to Total Investment Management, Inc. (TIM) to better reflect the growing services we were providing to aviation professionals. Since 1998, the firm has evolved into a full service financial advisory firm. In 2008, TIM decided to become a true fiduciary of clients’ assets by becoming a nationally registered investment advisor. We believe the RIA structure is the most transparent way for an investor to work with a financial advisor. This is because registered investment advisors are held to a fiduciary standard and collect their revenue based mainly on fees and not commissions.</p>
                       <p class="just">We are not trying to be all things to all people. We concentrate our efforts on the airline industry. We do not have or plan to have multiple offices around the country with a big sales team. We believe in a competent manageable team of people to help our clients. TIM is continually reviewing processes, technology, adding value-added services and building a strong team to serve you.</p>
                   </div>
               </div>
@@ -247,7 +247,7 @@
                         </div>
                     </div>
 
-                </div> 
+                </div>
 
                 <!-- Carousel nav -->
                 <a id="team_carousel_left" class="carousel-control left" href="#team_carousel" data-slide="prev"></a>
