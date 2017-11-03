@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/company.php">
+        <link rel="canonical" href="<?php echo $home_url; ?>/company.php">
 
         <title>Company</title>
 
@@ -51,7 +51,7 @@
                       </div>
                   </div>
                   <div class="span7">
-                      <p class="just">Total Investment Management, Inc. is a Registered Investment Advisor founded in 1991 by former military and commercial pilots John E. Foster II and James Hughes under the original name, HFG Asset Allocation Service. The name was later changed in 1998 to Total Investment Management, Inc. (TIM) to better reflect the growing services we were providing to aviation professionals. Since 1998, the firm has evolved into a full service financial advisory firm. In 2008, TIM decided to become a true fiduciary of clients’ assets by becoming a nationally registered investment advisor. We believe this structure is the most transparent way for an investor to work with a financial advisor. This is because registered investment advisors are held to a fiduciary standard and collect their revenue based mainly on fees and not commissions.</p>
+                      <p class="just">Total Investment Management, Inc. is a Registered Investment Advisor founded in 1991 by former military and commercial pilots John E. Foster II and James Hughes under the original name, HFG Asset Allocation Service. The name was later changed in 1998 to Total Investment Management, Inc. (TIM) to better reflect the growing services we were providing to aviation professionals. Since 1998, the firm has evolved into a full service financial advisory firm. In 2008, TIM decided to become a true fiduciary of clients’ assets by becoming a nationally registered investment advisor. We believe the RIA structure is the most transparent way for an investor to work with a financial advisor. This is because registered investment advisors are held to a fiduciary standard and collect their revenue based mainly on fees and not commissions.</p>
                       <p class="just">We are not trying to be all things to all people. We concentrate our efforts on the airline industry. We do not have or plan to have multiple offices around the country with a big sales team. We believe in a competent manageable team of people to help our clients. TIM is continually reviewing processes, technology, adding value-added services and building a strong team to serve you.</p>
                   </div>
               </div>
@@ -247,6 +247,84 @@
                         </div>
                     </div>
 
+                    <!-- Patrick -->
+                    <div class="item">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="team_member clearfix">
+                                    <div class="span4 offset1">
+                                        <img src="img/team-bio-patrick-brock.png" alt="Patrick Brock">
+                                    </div>
+                                    <div class="span7">
+                                        <div class="team_member_info">
+                                            <!-- Name/Title -->
+                                            <p class="team_member_name">Patrick Brock</p>
+                                            <p class="team_member_title">Investment Advisor</p>
+
+                                            <!-- Bio -->
+                                            <p class="just">Patrick Brock was born and raised in El Paso, Texas and studied at the University of Texas at El Paso. Patrick grew up in a household of financial advisers. Their ideals were ingrained in him at a very early age. He learned that protecting tomorrow begins today. He has continued his family tradition to become an investment advisor. For Patrick, helping people is rewarding work whether it’s in the air or helping to attain their financial goals. In 1988, Pat was given an opportunity to work for a fast-growing carrier, Southwest Airlines. For the past 30 years, Patrick has been serving customers and providing safety. Through the years, Patrick has immersed himself in important financial topics such as retirement planning, portfolio management and the fiduciary responsibilities that go along with being an investment advisor. Patrick is a member of the investment committee helping TIM pursue our mission of protecting and looking out for our client’s best interest. Patrick lives in Gilbert, AZ. with his wife of 15 years, Carol. Other interests include reading, traveling, exercising, and is always up for a good golf match.</p>
+
+                                            <!-- Contact -->
+                                            <a href="mailto:Patrick.brock@timgt.com" title="Email" class="team_member_email">Email Patrick</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Pam -->
+                    <div class="item">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="team_member clearfix">
+                                    <div class="span4 offset1">
+                                        <img src="img/team-bio-pam-houser.png" alt="Pam Houser">
+                                    </div>
+                                    <div class="span7">
+                                        <div class="team_member_info">
+                                            <!-- Name/Title -->
+                                            <p class="team_member_name">Pam Houser</p>
+                                            <p class="team_member_title">Chief Compliance Officer</p>
+
+                                            <!-- Bio -->
+                                            <p class="just">Pamela Houser was born in Virginia, while her father was stationed at Langley AFB and has lived in the Valley since 1984.  Pamela graduated from the W.P. Carey School of Business at Arizona State University with her B.S. in Marketing.  She began her financial services career on the trading desk at SunAmerica Securities in 1996 and brings over 20 years of operational and compliance experience to the Total Investment Management team.  Prior to joining TIM, she worked at firms including Morgan Stanley Smith Barney and MRA Associates where she developed and maintained relationships with both private and institutional clients, ensuring that their needs were met and financial goals achieved.  As the CCO she manages the continuous improvement of processes and procedures that support compliance and regulatory requirements as well as working to mitigate operational risks.  It is of the utmost importance to maintain our fiduciary commitment to our clients.   Pamela loves the theater and spends her free time with family, her adorable dog, and watching her nieces play softball.</p>
+
+                                            <!-- Contact -->
+                                            <a href="mailto:Pam.houser@timgt.com" title="Email" class="team_member_email">Email Pam</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Elizabeth -->
+                    <div class="item">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="team_member clearfix">
+                                    <div class="span4 offset1">
+                                        <img src="img/team-bio-elisabeth-hussey.png" alt="Elisabeth Hussey">
+                                    </div>
+                                    <div class="span7">
+                                        <div class="team_member_info">
+                                            <!-- Name/Title -->
+                                            <p class="team_member_name">Elizabeth Hussey</p>
+                                            <p class="team_member_title">Office Manager</p>
+
+                                            <!-- Bio -->
+                                            <p class="just">Elizabeth Hussey was born in Lombard, Illinois and has lived here in the Valley since 1976. After working for environmental consultants, she became a full-time Mother who raised an amazing young man who plans to attend Embry Riddle.  Elizabeth joined our team in 2016 as the Office Manager. She specializes in office management, customer service and event planning.   In her free time, Elizabeth enjoys cooking, entertaining, dabbles in painting, and truly enjoys the fine arts.</p>
+
+                                            <!-- Contact -->
+                                            <a href="mailto:Elizabeth.hussey@timgt.com" title="Email" class="team_member_email">Email Elizabeth</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
 
                 <!-- Carousel nav -->
@@ -262,6 +340,9 @@
                 <li data-target="#team_carousel" data-slide-to="4"><img src="img/team-thumb-7.png" alt="" class="team_thumb">
                 <li data-target="#team_carousel" data-slide-to="5"><img src="img/team-thumb-5.png" alt="" class="team_thumb">
                 <li data-target="#team_carousel" data-slide-to="6"><img src="img/team-thumb-6.png" alt="" class="team_thumb">
+                <li data-target="#team_carousel" data-slide-to="7"><img src="img/team-thumb-10.png" alt="" class="team_thumb">
+                <li data-target="#team_carousel" data-slide-to="8"><img src="img/team-thumb-11.png" alt="" class="team_thumb">
+                <li data-target="#team_carousel" data-slide-to="9"><img src="img/team-thumb-12.png" alt="" class="team_thumb">
             </ol>
         </section>
 
