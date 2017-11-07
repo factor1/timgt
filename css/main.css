@@ -626,7 +626,7 @@ p a:hover {
  .cta-home-content {
    width: 80%;
    margin: auto;
-   overflow: hidden;
+   overflow-y: hidden;
    height: 270px;
    align-content: center;
    display: flex;
@@ -638,7 +638,7 @@ p a:hover {
    bottom: -50px;
  }
  .cta-home-text {
-   font-family: avenir;
+   font-family: avenir, sans-serif;
    font-size: 30px;
    text-transform: none;
    color:#41657f;
