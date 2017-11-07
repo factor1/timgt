@@ -626,7 +626,7 @@ p a:hover {
  .cta-home-content {
    width: 80%;
    margin: auto;
-   overflow-y: hidden;
+   overflow: hidden;
    height: 270px;
    align-content: center;
    display: flex;
