@@ -221,6 +221,32 @@
                         </div>
                     </div>
 
+                    <!-- Patrick -->
+                    <div class="item">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="team_member clearfix">
+                                    <div class="span4 offset1">
+                                        <img src="img/team-bio-patrick-brock.png" alt="Patrick Brock">
+                                    </div>
+                                    <div class="span7">
+                                        <div class="team_member_info">
+                                            <!-- Name/Title -->
+                                            <p class="team_member_name">Patrick S. Brock</p>
+                                            <p class="team_member_title">Investment Advisor</p>
+
+                                            <!-- Bio -->
+                                            <p class="just">Patrick Brock was born and raised in El Paso, Texas and studied at the University of Texas at El Paso. Patrick grew up in a household of financial advisers. Their ideals were ingrained in him at a very early age. He learned that protecting tomorrow begins today. He has continued his family tradition to become an investment advisor. For Patrick, helping people is rewarding work whether it’s in the air or helping to attain their financial goals. In 1988, Pat was given an opportunity to work for a fast-growing carrier, Southwest Airlines. For the past 30 years, Patrick has been serving customers and providing safety. Through the years, Patrick has immersed himself in important financial topics such as retirement planning, portfolio management and the fiduciary responsibilities that go along with being an investment advisor. Patrick is a member of the investment committee helping TIM pursue our mission of protecting and looking out for our client’s best interest. Patrick lives in Gilbert, AZ. with his wife of 15 years, Carol. Other interests include reading, traveling, exercising, and is always up for a good golf match.</p>
+
+                                            <!-- Contact -->
+                                            <a href="mailto:Patrick.brock@timgt.com" title="Email" class="team_member_email">Email Patrick</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <!-- Denise -->
                     <div class="item">
                         <div class="container-fluid">
@@ -233,39 +259,13 @@
                                         <div class="team_member_info">
                                             <!-- Name/Title -->
                                             <p class="team_member_name">Denise Martinez</p>
-                                            <p class="team_member_title">Chief Operations Officer</p>
+                                            <p class="team_member_title">Director of Operations</p>
 
                                             <!-- Bio -->
                                             <p class="just">Denise Martinez was born and raised in Brooklyn, New York and has lived in the Valley of the Sun since 1997.  Denise has been involved in the securities industry since 1988 and has worked in several different capacities over the last 25 years with major companies such as Morgan Stanley, Smith Barney, UBS Financial and Charles Schwab. Denise joined our team in 2006 as Director of Operations.  She is fluent in Spanish and sees to it that all necessary requirements are fulfilled internally, while keeping customer service as the highest priority. She truly is a problem solver and team player.  In her free time, Denise enjoys traveling, dancing, and cooking Caribbean food.  She is married to Eddie who she met in Arizona and has two children, a blonde-Diva Chihuahua and a very protective orange-tabby cat.</p>
 
                                             <!-- Contact -->
                                             <a href="mailto:Denise.martinez@timgt.com" title="Email" class="team_member_email">Email Denise</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Patrick -->
-                    <div class="item">
-                        <div class="container-fluid">
-                            <div class="row-fluid">
-                                <div class="team_member clearfix">
-                                    <div class="span4 offset1">
-                                        <img src="img/team-bio-patrick-brock.png" alt="Patrick Brock">
-                                    </div>
-                                    <div class="span7">
-                                        <div class="team_member_info">
-                                            <!-- Name/Title -->
-                                            <p class="team_member_name">Patrick Brock</p>
-                                            <p class="team_member_title">Investment Advisor</p>
-
-                                            <!-- Bio -->
-                                            <p class="just">Patrick Brock was born and raised in El Paso, Texas and studied at the University of Texas at El Paso. Patrick grew up in a household of financial advisers. Their ideals were ingrained in him at a very early age. He learned that protecting tomorrow begins today. He has continued his family tradition to become an investment advisor. For Patrick, helping people is rewarding work whether it’s in the air or helping to attain their financial goals. In 1988, Pat was given an opportunity to work for a fast-growing carrier, Southwest Airlines. For the past 30 years, Patrick has been serving customers and providing safety. Through the years, Patrick has immersed himself in important financial topics such as retirement planning, portfolio management and the fiduciary responsibilities that go along with being an investment advisor. Patrick is a member of the investment committee helping TIM pursue our mission of protecting and looking out for our client’s best interest. Patrick lives in Gilbert, AZ. with his wife of 15 years, Carol. Other interests include reading, traveling, exercising, and is always up for a good golf match.</p>
-
-                                            <!-- Contact -->
-                                            <a href="mailto:Patrick.brock@timgt.com" title="Email" class="team_member_email">Email Patrick</a>
                                         </div>
                                     </div>
                                 </div>
@@ -284,14 +284,14 @@
                                     <div class="span7">
                                         <div class="team_member_info">
                                             <!-- Name/Title -->
-                                            <p class="team_member_name">Pam Houser</p>
+                                            <p class="team_member_name">Pamela Houser, IACCP®</p>
                                             <p class="team_member_title">Chief Compliance Officer</p>
 
                                             <!-- Bio -->
                                             <p class="just">Pamela Houser was born in Virginia, while her father was stationed at Langley AFB and has lived in the Valley since 1984.  Pamela graduated from the W.P. Carey School of Business at Arizona State University with her B.S. in Marketing.  She began her financial services career on the trading desk at SunAmerica Securities in 1996 and brings over 20 years of operational and compliance experience to the Total Investment Management team.  Prior to joining TIM, she worked at firms including Morgan Stanley Smith Barney and MRA Associates where she developed and maintained relationships with both private and institutional clients, ensuring that their needs were met and financial goals achieved.  As the CCO she manages the continuous improvement of processes and procedures that support compliance and regulatory requirements as well as working to mitigate operational risks.  It is of the utmost importance to maintain our fiduciary commitment to our clients.   Pamela loves the theater and spends her free time with family, her adorable dog, and watching her nieces play softball.</p>
 
                                             <!-- Contact -->
-                                            <a href="mailto:Pam.houser@timgt.com" title="Email" class="team_member_email">Email Pam</a>
+                                            <a href="mailto:Pamela.houser@timgt.com" title="Email" class="team_member_email">Email Pamela</a>
                                         </div>
                                     </div>
                                 </div>
@@ -339,8 +339,8 @@
                 <li data-target="#team_carousel" data-slide-to="3"><img src="img/team-thumb-3.png" alt="" class="team_thumb">
                 <li data-target="#team_carousel" data-slide-to="4"><img src="img/team-thumb-7.png" alt="" class="team_thumb">
                 <li data-target="#team_carousel" data-slide-to="5"><img src="img/team-thumb-5.png" alt="" class="team_thumb">
-                <li data-target="#team_carousel" data-slide-to="6"><img src="img/team-thumb-6.png" alt="" class="team_thumb">
-                <li data-target="#team_carousel" data-slide-to="7"><img src="img/team-thumb-10.png" alt="" class="team_thumb">
+                <li data-target="#team_carousel" data-slide-to="6"><img src="img/team-thumb-10.png" alt="" class="team_thumb">
+                  <li data-target="#team_carousel" data-slide-to="7"><img src="img/team-thumb-6.png" alt="" class="team_thumb">
                 <li data-target="#team_carousel" data-slide-to="8"><img src="img/team-thumb-11.png" alt="" class="team_thumb">
                 <li data-target="#team_carousel" data-slide-to="9"><img src="img/team-thumb-12.png" alt="" class="team_thumb">
             </ol>

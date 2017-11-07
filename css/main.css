@@ -638,7 +638,7 @@ p a:hover {
    bottom: -50px;
  }
  .cta-home-text {
-   font-family: avenir;
+   font-family: avenir, sans-serif;
    font-size: 30px;
    text-transform: none;
    color:#41657f;
