@@ -102,7 +102,7 @@
                                     <div class="span7">
                                         <div class="team_member_info">
                                             <!-- Name/Title -->
-                                            <p class="team_member_name">Todd M. Foster <span class="team_member_designations">AIF<sup>&reg;</sup></span></p>
+                                            <p class="team_member_name">Todd M. Foster, <span class="team_member_designations">AIF<sup>&reg;</sup></span></p>
                                             <p class="team_member_title">Chief Executive Officer</p>
 
                                             <!-- Bio -->
@@ -128,7 +128,7 @@
                                     <div class="span7">
                                         <div class="team_member_info">
                                             <!-- Name/Title -->
-                                            <p class="team_member_name">Philip E. Lowe <span class="team_member_designations">CFP<sup>TM</sup> MBA</span></p>
+                                            <p class="team_member_name">Philip E. Lowe, <span class="team_member_designations">CFP<sup>&reg;</sup> MBA</span></p>
                                             <p class="team_member_title">Financial Advisor</p>
 
                                             <!-- Bio -->
@@ -154,7 +154,7 @@
                                     <div class="span7">
                                         <div class="team_member_info">
                                             <!-- Name/Title -->
-                                            <p class="team_member_name">Jim Hughes <span class="team_member_designations">CFP<sup>TM</sup> MBA</span></p>
+                                            <p class="team_member_name">Jim Hughes, <span class="team_member_designations">CFP<sup>&reg;</sup> MBA</span></p>
                                             <p class="team_member_title">Financial Advisor</p>
 
                                             <!-- Bio -->
@@ -180,7 +180,7 @@
                                     <div class="span7">
                                         <div class="team_member_info">
                                             <!-- Name/Title -->
-                                            <p class="team_member_name">Bryan Lee <span class="team_member_designations">CMT</span></p>
+                                            <p class="team_member_name">Bryan Lee, <span class="team_member_designations">CMT</span></p>
                                             <p class="team_member_title">Chief Technical Analyst</p>
 
                                             <!-- Bio -->
@@ -206,7 +206,7 @@
                                     <div class="span7">
                                         <div class="team_member_info">
                                             <!-- Name/Title -->
-                                            <p class="team_member_name">John W. Greer <span class="team_member_designations">CFA</span></p>
+                                            <p class="team_member_name">John W. Greer, <span class="team_member_designations">CFA</span></p>
                                             <p class="team_member_title">Investment Strategist</p>
 
                                             <!-- Bio -->
@@ -284,7 +284,7 @@
                                     <div class="span7">
                                         <div class="team_member_info">
                                             <!-- Name/Title -->
-                                            <p class="team_member_name">Pamela Houser, IACCP®</p>
+                                            <p class="team_member_name">Pamela Houser, <span class="team_member_designations">IACCP<sup>&reg;</sup></span></p>
                                             <p class="team_member_title">Chief Compliance Officer</p>
 
                                             <!-- Bio -->
