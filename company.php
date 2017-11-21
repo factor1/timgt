@@ -180,7 +180,7 @@
                                     <div class="span7">
                                         <div class="team_member_info">
                                             <!-- Name/Title -->
-                                            <p class="team_member_name">Bryan Lee, <span class="team_member_designations">CMT</span></p>
+                                            <p class="team_member_name">Bryan Lee, <span class="team_member_designations">CMT<sup>&reg;</sup></span></p>
                                             <p class="team_member_title">Chief Technical Analyst</p>
 
                                             <!-- Bio -->
@@ -206,7 +206,7 @@
                                     <div class="span7">
                                         <div class="team_member_info">
                                             <!-- Name/Title -->
-                                            <p class="team_member_name">John W. Greer, <span class="team_member_designations">CFA</span></p>
+                                            <p class="team_member_name">John W. Greer, <span class="team_member_designations">CFA<sup>&reg;</sup></span></p>
                                             <p class="team_member_title">Investment Strategist</p>
 
                                             <!-- Bio -->
