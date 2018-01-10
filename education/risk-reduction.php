@@ -29,7 +29,11 @@
                 <div class="education-article__content">
                   <h1 class="education-article__heading">Risk Reduction in a Bear Market can Drive Positive Long-Term Results</h1>
 
+<<<<<<< HEAD
                   <p><img src="../img/education/did-you-know-orange.jpg" alt=""></p>
+=======
+                  <p><img src="../img/education/vol3-did-you-know-blue.jpg" alt=""></p>
+>>>>>>> added featured images to blog posts vol3, vol4, and vol5
 
 <p>Many stock market studies show that “timing the market” doesn’t really work. An often misunderstood concept, market timing is defined by the mutual fund industry and financial media as the process of attempting to perfectly time your buying (at market bottoms) and selling (at market tops) activity. Of course, no one can perfectly time the market consistently, so mutual fund companies have developed marketing strategies that illustrate the impact of “misses.”</p>
 
