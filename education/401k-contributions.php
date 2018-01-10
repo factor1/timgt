@@ -29,6 +29,8 @@
                 <div class="education-article__content">
                   <h1 class="education-article__heading">Did You Know: Benefits of Contributing to your 401(k)</h1>
 
+                  <p><img src="../img/education/vol5.jpg" alt=""></p>
+
                   <h3>The Missing Leg of the Three-Legged Stool of Retirement</h3>
 
                   <p>The three-legged stool is a metaphor for how the post-World War II generation looked at planning for retirement. Each leg represented one portion of planned retirement income. The legs were: employer pension, employee savings, and Social Security. The idea was that you needed each one to build a strong retirement foundation. Without any one, the three-legged stool would fall apart. This metaphor is often attributed to Franklin D. Roosevelt, who created the Social Security program.</p>
