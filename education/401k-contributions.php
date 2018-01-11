@@ -29,7 +29,7 @@
                 <div class="education-article__content">
                   <h1 class="education-article__heading">Did You Know: Benefits of Contributing to your 401(k)</h1>
 
-                  <p><img src="../img/education/vol5.jpg" alt=""></p>
+                  <p><img src="../img/education/vol5-did-you-know-blue-no-mustache.jpg" alt=""></p>
 
                   <h3>The Missing Leg of the Three-Legged Stool of Retirement</h3>
 
