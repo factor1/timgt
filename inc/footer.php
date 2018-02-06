@@ -22,7 +22,7 @@
                     <div class="foot_social clearfix">
                         <a href="http://www.linkedin.com/company/total-investment-management?trk=ppro_cprof" title="" target="_blank" class="social_icon in"></a>
                         <a href="https://www.facebook.com/pages/Total-Investment-Management/147200515476670" title="" target="_blank" class="social_icon fb"></a>
-                        <!-- <a href="" title="" target="_blank" class="social_icon tw"></a> -->
+                        <a href="https://twitter.com/TIMGTCrew" title="" target="_blank" class="social_icon tw"></a>
                     </div>
 
                     <a href="http://www.bbb.org/phoenix/business-reviews/financial-planning-consultants/total-investment-management-inc-in-scottsdale-az-1000035757" title="BBB" class="bbb" target="_blank"><img src="img/bbb.png" alt="BBB"></a>
