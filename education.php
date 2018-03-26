@@ -30,7 +30,14 @@
         <section class="primary_copy education">
           <div class="container-fluid">
 
-            
+              <div class="education-article education-article--summary">
+                <a class="education-article__wrapper" href="/education/cybersecurity-tips-to-prevent-fraud.php">
+                  <h3 class="education-article__heading education-article--summary__heading">CyberSecurity - Tips to Prevent Fraud</h3>
+                  <p  class="education-article__summary">Cybercrime and fraud are serious threats and constant vigilance is key. Cyber criminals exploit our increasing reliance on technology. Methods used to compromise a victim’s identity or login credentials – such as malware, phishing, and social engineering – are increasingly sophisticated and difficult to spot. A fraudster’s goal is to obtain information to access to your account and assets or sell your information for this purpose.</p>
+                  <a  class="education-article__read-more button" href="/education/cybersecurity-tips-to-prevent-fraud.php">More</a>
+                </a>
+              </div>
+
               <div class="education-article education-article--summary">
                 <a class="education-article__wrapper" href="/education/gold-making-headlines-again.php">
                   <h3 class="education-article__heading education-article--summary__heading">Gold Making Headlines Again</h3>
@@ -38,7 +45,7 @@
                   <a  class="education-article__read-more button" href="/education/gold-making-headlines-again.php">More</a>
                 </a>
               </div>
-            
+
               <div class="education-article education-article--summary">
                 <a class="education-article__wrapper" href="/education/risk-reduction.php">
                   <h3 class="education-article__heading education-article--summary__heading">Risk Reduction in a Bear Market can Drive Positive Long-Term Results</h3>
@@ -46,7 +53,7 @@
                   <a  class="education-article__read-more button" href="/education/risk-reduction.php">More</a>
                 </a>
               </div>
-            
+
               <div class="education-article education-article--summary">
                 <a class="education-article__wrapper" href="/education/investors-investment-return.php">
                   <h3 class="education-article__heading education-article--summary__heading">Why is the average investor's investment return so low?</h3>
@@ -54,7 +61,7 @@
                   <a  class="education-article__read-more button" href="/education/investors-investment-return.php">More</a>
                 </a>
               </div>
-            
+
               <div class="education-article education-article--summary">
                 <a class="education-article__wrapper" href="/education/social-security-benefits.php">
                   <h3 class="education-article__heading education-article--summary__heading">When Will You Begin Taking Social Security Benefits?</h3>
@@ -62,7 +69,7 @@
                   <a  class="education-article__read-more button" href="/education/social-security-benefits.php">More</a>
                 </a>
               </div>
-            
+
               <div class="education-article education-article--summary">
                 <a class="education-article__wrapper" href="/education/retirement-you-want.php">
                   <h3 class="education-article__heading education-article--summary__heading">Can You Have the Retirement You Want?</h3>
@@ -70,7 +77,7 @@
                   <a  class="education-article__read-more button" href="/education/retirement-you-want.php">More</a>
                 </a>
               </div>
-            
+
               <div class="education-article education-article--summary">
                 <a class="education-article__wrapper" href="/education/401k-volatility.php">
                   <h3 class="education-article__heading education-article--summary__heading">Did you know: 401K turbulence, what does it mean?</h3>
@@ -78,7 +85,7 @@
                   <a  class="education-article__read-more button" href="/education/401k-volatility.php">More</a>
                 </a>
               </div>
-            
+
               <div class="education-article education-article--summary">
                 <a class="education-article__wrapper" href="/education/insurance-beneficiary.php">
                   <h3 class="education-article__heading education-article--summary__heading">Would You Like To Be The Beneficiary Of Your Own Life Insurance Policy While You Are Living?</h3>
@@ -86,7 +93,7 @@
                   <a  class="education-article__read-more button" href="/education/insurance-beneficiary.php">More</a>
                 </a>
               </div>
-            
+
               <div class="education-article education-article--summary">
                 <a class="education-article__wrapper" href="/education/retirement-rhra.php">
                   <h3 class="education-article__heading education-article--summary__heading">Retirement Health Reimbursement Arrangement (RHRA)</h3>
@@ -94,7 +101,7 @@
                   <a  class="education-article__read-more button" href="/education/retirement-rhra.php">More</a>
                 </a>
               </div>
-            
+
               <div class="education-article education-article--summary">
                 <a class="education-article__wrapper" href="/education/roth-401k.php">
                   <h3 class="education-article__heading education-article--summary__heading">Roth 401(k) Contributions vs. Traditional 401(k) Contributions</h3>
@@ -102,7 +109,7 @@
                   <a  class="education-article__read-more button" href="/education/roth-401k.php">More</a>
                 </a>
               </div>
-            
+
               <div class="education-article education-article--summary">
                 <a class="education-article__wrapper" href="/education/401k-contributions.php">
                   <h3 class="education-article__heading education-article--summary__heading">Benefits of Contributing to your 401(k)</h3>
@@ -110,7 +117,7 @@
                   <a  class="education-article__read-more button" href="/education/401k-contributions.php">More</a>
                 </a>
               </div>
-            
+
 
           </div>
         </section>
