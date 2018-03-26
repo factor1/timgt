@@ -87,6 +87,10 @@
                     <ul class="education-article__related-list">
 
                         <li class="education-article__related-list-item">
+                          <a class="education-article__related-link  current " href="/education/cybersecurity-tips-to-prevent-fraud.php" title="">CyberSecurity - Tips to Prevent Fraud</a>
+                        </li>
+
+                        <li class="education-article__related-list-item">
                           <a class="education-article__related-link " href="/education/gold-making-headlines-again.php" title="">Gold Making Headlines Again</a>
                         </li>
 
