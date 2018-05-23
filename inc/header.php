@@ -1,4 +1,4 @@
-<?php require 'global.php'; ?>
+<?php require $_SERVER['DOCUMENT_ROOT'] . '/global.php'; ?>
 
 <header id="header_top" class="header">
     <a href="/" title="" class="big_logo hidden-phone"><img src="img/logo.png" alt=""></a>
