@@ -112,6 +112,11 @@ h2 {
     padding: 0 0 1em;
     margin-bottom: 1em;
 }
+.new-h2 {
+  padding: 0;
+  margin-bottom: 0;
+  background: none;
+}
 h3 {
     text-transform: uppercase;
     margin-top: 0;
@@ -986,7 +991,6 @@ p a:hover {
     height: 500px;
 }
 
-
 /*
  *
  * Investment Management
@@ -1766,6 +1770,16 @@ ul li a {
     color: #7796b3;
 }
 
+.graph-img {
+  width: 570px;
+  height: 310px;
+  border: 5px solid #aac1d6;
+}
+
+.market-video {
+  width: 570px;
+  height: 390px;
+}
 
 /*
  *
@@ -2299,6 +2313,14 @@ ul li a {
     *zoom: 1;
 }
 
+.new-h2 {
+padding: 0;
+margin-bottom: 0;
+background: none;
+max-width: 800px;
+margin: 0 auto;
+}
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */
@@ -2313,7 +2335,13 @@ ul li a {
      .top_nav a {
         margin: 0 20px;
      }
+
  }
+
+ @media (max-width: 1220px) {
+ .span6 {
+   width: 100%;
+}
 
 @media (min-width: 768px) and (max-width: 1060px) {
 
@@ -2402,6 +2430,8 @@ ul li a {
     }
 
 
+
+
     /*
      *
      * Nav
@@ -2458,6 +2488,19 @@ ul li a {
     .im_top p.lead {
         padding-left: 30px;
     }
+}
+
+@media (max-width: 768px) {
+
+  .graph-img {
+    margin-top: 30px;
+    width: 345px;
+    height: 243px;
+  }
+  .market-video {
+    width: 345px;
+    height: 330px;
+  }
 }
 
 @media (max-width: 767px) {

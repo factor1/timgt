@@ -37,7 +37,7 @@
         <section class="primary_copy partners_diagram">
             <h2>Our Partners</h2>
             <div class="container-fluid">
-                <img src="img/partners-diagram.png?041017" class="diagram" alt="">
+                <img src="img/partners-diagram-new.png" class="diagram" alt="">
             </div>
             <div class="container-fluid">
                 <ul class="partner_types clearfix">

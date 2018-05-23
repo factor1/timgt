@@ -25,7 +25,7 @@
             <button type="submit" class="submit button">Submit</button>
           </form>
         </div>
- 
+
         <section class="primary_copy">
           <div class="container-fluid">
             <div class="row-fluid">
@@ -71,45 +71,28 @@
 
         <section class="section--market-update">
           <div class="container-fluid">
-            <div class="row-fluid">
-      
-              <h2>Clear, Concise Information For Busy Aviation Pros<br> <span class="heading--2__sub-heading">Check out these examples of Weekly Market Updates.</span></h2>
-
-              <div class="market-update-card market-update-card--sample-1">
-                <h3 class="market-update-card__tab market-update-card--sample-1__tab">July 2nd, 2015</h3>
-                <div class="market-update-card__content market-update-card--sample-1__content">
-                  <p class="market-update-card__tag-line">“We took some action this week... now we wait.”</p>
-                  <div class="clearfix">
-<div class="market-update-card__video-wrapper">
-                    <div class="market-update-card__video">
-                      <iframe src="https://player.vimeo.com/video/156878794" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                    </div>
-</div>
-                    <div class="market-update-card__copy">
-                      <p>We are thinking that the correction has begun because breaking 2070 caused a lower low and a lower high off the top; the definition of a downtrend. As such, we took some action this week to get a bit more defensive. Now we wait. If the market turns back up and hits new highs, we can always get back in. If the market continues its decline next week (the market closed down over 1% on the week), we are in a good initial position for the correction or next bear market.</p>
-                    </div>
-                  </div>
-                </div>
+            <div class="row">
+              <div class="span7" style="width: 100%">
+                <h2 class="new-h2">Actual snippets taken from the January 26, 2018 market update</h2>
               </div>
-
-              <div class="market-update-card market-update-card--sample-2">
-                <h3 class="market-update-card__tab market-update-card--sample-2__tab">August 21st, 2015</h3>
-                <div class="market-update-card__content market-update-card--sample-2__content">
-                  <p class="market-update-card__tag-line">“The action this week could definitely signal the first leg down of the bear market.”</p>
-                  <div class="clearfix">
-<div class="market-update-card__video-wrapper">
-                    <div class="market-update-card__video">
-                      <iframe src="https://player.vimeo.com/video/156878793" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-                    </div>
-</div>
-                    <div class="market-update-card__copy">
-                      That being said, we have been warning about the possible initiation of the next bear market due to the length of this bull market, valuations reaching full value and negative divergences on a lot of technical indicators. The action this week could definitely signal the first leg down of the bear market but we need to be sure so we don’t get shaken out of our positions on just a ‘normal’ 10% correction. This is where our long-term indicators come into play. As of this writing, our basket of long-term indicators is mixed with some turning bearish and others holding on. We need to wait for the end of the month to see if these monthly indicators trigger. If so, it increases the probability of this being the beginning of the next bear market. We can’t guess about these indicators, we need to wait until the end of the month because the market could easily reverse and negate these indicators with a rally into month end.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            
             </div>
+
+              <div class="row">
+                <div class="span6" style="margin-top: 35px;">
+                  <img class="graph-img" src="css/i/commentary-image.png" alt="market trends">
+                  <div style="padding-top:41px;">
+                    Timely information was provided in the weekly written commentary alerting TIM clients to the possibility of “…a sharp and sudden reversal.” We provided a chart of the market to see what happened next.
+                  </div>
+                </div>
+
+                <div class="span6">
+                  <iframe class="market-video" src="https://player.vimeo.com/video/264671493" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                  <div>
+                    In the webcast from that week, we expanded on our thoughts from the written commentary and provided nice visuals to see how high the risk was. Click on the play button to watch.
+                  </div>
+                </div>
+              </div>
+
           </div>
         </section>
 
