@@ -388,7 +388,7 @@
                                 <li>Keep us informed regarding changes to your personal information.</li>
                                 <li>Expect us to call you to confirm email requests to move money, trade, or change account information.</li>
                               </ul>
-                            
+
                               <h3>What you can do</h3>
                               <ul>
                                 <li>Be aware of suspicious phone calls, emails, and texts asking you to send money or disclose personal information. If a service rep calls you, hang up and call back using a known phone number.</li>
