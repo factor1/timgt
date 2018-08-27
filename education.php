@@ -31,6 +31,14 @@
           <div class="container-fluid">
 
               <div class="education-article education-article--summary">
+                <a class="education-article__wrapper" href="/education/what-is-the-behavior-gap.php">
+                  <h3 class="education-article__heading education-article--summary__heading">What is the Behavior Gap?</h3>
+                  <p  class="education-article__summary">Let’s face it. Investing your hard earned dollars is emotional. This sometimes makes us act irrationally. This doesn’t mean we aren’t smart but financial decision making is heavily impacted by human psychology. We are wired to avoid pain and seek pleasure.</p>
+                  <a  class="education-article__read-more button" href="/education/what-is-the-behavior-gap.php">More</a>
+                </a>
+              </div>
+
+              <div class="education-article education-article--summary">
                 <a class="education-article__wrapper" href="/education/cybersecurity-tips-to-prevent-fraud.php">
                   <h3 class="education-article__heading education-article--summary__heading">CyberSecurity - Tips to Prevent Fraud</h3>
                   <p  class="education-article__summary">Cybercrime and fraud are serious threats and constant vigilance is key. Cyber criminals exploit our increasing reliance on technology. Methods used to compromise a victim’s identity or login credentials – such as malware, phishing, and social engineering – are increasingly sophisticated and difficult to spot. A fraudster’s goal is to obtain information to access to your account and assets or sell your information for this purpose.</p>
