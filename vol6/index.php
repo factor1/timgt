@@ -196,7 +196,7 @@
             }
 
             .partners_header {
-                background: url(./bg.png);
+                background: url(./post-bg-red.png);
                 background-position: center top;
                 background-size: cover;
             }
