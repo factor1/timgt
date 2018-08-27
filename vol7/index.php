@@ -22,6 +22,21 @@
                 }
             }
 
+            .content-wrapper .behavior-img {
+              display: inline-block;
+              float: right;
+              width: 350px;
+              margin-left: 15px;
+            }
+
+            @media (max-width: 600px) {
+              .content-wrapper .behavior-img {
+                float: none;
+                width: 100%;
+                margin-left: 0;
+              }
+            }
+
             section.quote {
                 border: 1px solid #76b0da;
                 border-left: 0;
@@ -347,7 +362,7 @@
                         <a href="http://www.timgt.com/" class="home-link">TIMGT.COM</a>
                     </div>
                     <div class="span6">
-                        <p class="vol-num">VOL 6.</p>
+                        <p class="vol-num">VOL 7.</p>
                     </div>
                 </div>
             </header>
@@ -367,11 +382,10 @@
                     <div class="row-fluid">
                        <div class="span10 offset1">
                            <div class="content-wrapper">
-                                <h3>CyberSecurity – Tips to Prevent Fraud</h3>
+                            <h3>What is the Behavior Gap?</h3>
+                            <p>The Behavior Gap is a term that describes the negative impact of poor decisions made by investors.</p>
 
-                                <p>Cybercrime and fraud are serious threats and constant vigilance is key. Cyber criminals exploit our increasing reliance on technology. Methods used to compromise a victim’s identity or login credentials – such as malware, phishing, and social engineering – are increasingly sophisticated and difficult to spot. A fraudster’s goal is to obtain information to access to your account and assets or sell your information for this purpose.</p>
-
-                                <p>While our firm plays an important role in helping protect your assets, we also want to arm you with the information and tools to protect yourself and help secure your information. This checklist summarizes common cyber fraud tactics, along with tips and best practices. Many suggestions may be things you’re doing now, while others may be new.</p>
+                            <p>Let’s face it. Investing your hard earned dollars is emotional. This sometimes makes us act irrationally. This doesn’t mean we aren’t smart but financial decision making is heavily impacted by human psychology. We are wired to avoid pain and seek pleasure.</p>
                            </div>
                        </div>
                     </div>
@@ -382,51 +396,38 @@
                     <div class="row-fluid">
                         <div class="span10 offset1">
                             <div class="content-wrapper">
-                              <h3>How we can work together to protect your information and assets</h3>
-                              <p><strong>Safe practices for communicating with our firm</strong></p>
-                              <ul>
-                                <li>Keep us informed regarding changes to your personal information.</li>
-                                <li>Expect us to call you to confirm email requests to move money, trade, or change account information.</li>
-                              </ul>
+                              <img src="./behavior-gap-drawing.jpg" class="behavior-img">
 
-                              <h3>What you can do</h3>
-                              <ul>
-                                <li>Be aware of suspicious phone calls, emails, and texts asking you to send money or disclose personal information. If a service rep calls you, hang up and call back using a known phone number.</li>
-                                <li>Never share sensitive information or conduct business via email, as accounts are often compromised.</li>
-                                <li>Beware of phishing and malicious links. Urgent-sounding, legitimate-looking emails are intended to tempt you to accidentally disclose personal information or install malware.</li>
-                                <li>Don’t open links or attachments from unknown sources. Enter the web address in your browser.</li>
-                                <li>Check your email and account statements regularly for suspicious activity.</li>
-                                <li>Never enter confidential information in public areas. Assume someone is always watching.</li>
-                              </ul>
+                              <h3>Impact on Returns</h3>
+                              <p>Over the past 20 years through 2014, the behavior gap has been just under 5%. This means that the average equity investor underperforms the average equity mutual fund by 5%.</p>
 
-                              <h3>Exercise caution when moving money</h3>
+                              <h3>Types of Mistakes</h3>
                               <ul>
-                                <li>Leverage our electronic authorization tool to verify requests. Featuring built-in safeguards, this is the fastest and most secure way to move money.</li>
-                                <li>Review and verbally confirm all disbursement request details thoroughly before providing your approval, especially when sending funds to another country. Never trust wire instructions received via email.</li>
-                                <li>Adhere to strong password principles.</li>
-                                <li>Don’t use personal information as part of your login ID or password and don’t share login credentials</li>
-                                <li>Create a unique, complex password for each website, Change it every six months. Consider using a password manager to simplify this process.</li>
-                              </ul>
-
-                              <h3>Maintain updated technology</h3>
-                              <ul>
-                                <li>Keep your web browser, operating system, antivirus, and anti-spyware updated, and activate the firewall.</li>
-                                <li>Do not use free/found USB devices. They may be infected with malware.</li>
-                                <li>Check security settings on your applications and web browser. Make sure they’re strong.</li>
-                                <li>Turn off Bluetooth when it’s not needed.</li>
-                                <li>Dispose of old hardware safely by performing a factory reset or removing and destroying all storage data devices.</li>
-                                <li>Use caution on websites and social media.</li>
-                                <li>Do not visit websites you don’t know, (e.g., advertised on pop-up ads and banners).</li>
-                                <li>Log out completely to terminate access when exiting all websites.</li>
-                                <li>Don’t use public computers or free Wi-Fi. Use a personal Wi-Fi hotspot or a Virtual Private Network (VPN).</li>
-                                <li>Hover over questionable links to reveal the URL before clicking. Secure websites start with “https,” not “http.”</li>
-                                <li>Be cautious when accepting “friend” requests on social media, liking posts, or following links.</li>
-                                <li>Limit sharing information on social media sites. Assume fraudsters can see everything, even if you have safeguards.</li>
+                              <li>You may want to increase risk when stocks are high because everyone is bragging about making money.</li>
+                              <li>You may want to sell when stocks are low and everyone else is freaking out.</li>
+                              <li>You are in cash and get a case of “FOMO” (Fear Of Missing Out) when the markets are ripping higher.</li>
                               </ul>
 
                               <blockquote>
-                                <p>“As the world is increasingly interconnected, everyone shares the responsibility of securing cyberspace.”
-                                <cite>― Newton Lee, Counterterrorism and Cybersecurity: Total Information Awareness</cite></p>
+                              <p>“Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can’t buy what is popular and do well.”</p>
+                              <cite>– Warren Buffett</cite>
+                              </blockquote>
+
+                              <h3>How much can an advisor help?</h3>
+                              <p>Vanguard recently did a study and proposed that financial advisors can add about a 3% increase in returns over the long-term. Portfolio construction and wealth management (rebalancing and financial planning) make up about 1.5%. Behavioral coaching adds about 1.5%.</p>
+
+                              <h3>How TIM can help</h3>
+                              <ul>
+                              <li>Create a comprehensive financial plan – this will help you focus on the longer-term. By checking the plan during times of stress, you should begin to realize that shorter term fluctuations will not have a material impact on your long-term goals.</li>
+                              <li>Behavioral Coaching – Advisors are here to walk you back from the ledge in times of uncertainty.</li>
+                              <li>Communication – By communicating our thoughts on the markets weekly, you will be prepared mentally when big up moves or down moves happen in the market.</li>
+                              </ul>
+
+                              <p>If you have more questions about behavioral finance, feel free to give one of our advisors a call. We would be happy to help you prepare a comprehensive financial plan that should help to mitigate the behavior gap.</p>
+
+                              <blockquote>
+                              <p>“Be fearful when others are greedy and greedy when others are fearful.”</p>
+                              <cite>– Warren Buffett</cite>
                               </blockquote>
 
                             </div>
@@ -453,7 +454,7 @@
                                 <input type="hidden" name="u" value="deff6c1033d6648706fb8b26b">
                                 <input type="hidden" name="id" value="9b062f9b89">
                                 <div class="span4 offset1">
-                                    <h3>Sign Up to get Vol 7.</h3>
+                                    <h3>Sign Up to get Vol 8.</h3>
                                 </div>
                                 <div class="span6">
                                     <div class="form-wrapper">
