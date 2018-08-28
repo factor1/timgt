@@ -374,7 +374,7 @@
                        <img src="../img/pilot-face.svg" style="margin-top:-115px">
                        <img src="./did-you-know.png" style="display:block;margin:40px auto;width:200px;padding-bottom:20px;border-bottom:1px solid #fff;">
                        <p class="vol-num small">VOL 5.</p>
-                       <h1>CyberSecurity - Tips to Prevent Fraud</h1>
+                       <h1>What is the Behavior Gap?</h1>
                     </section>
                 </div>
 
@@ -382,7 +382,6 @@
                     <div class="row-fluid">
                        <div class="span10 offset1">
                            <div class="content-wrapper">
-                            <h3>What is the Behavior Gap?</h3>
                             <p>The Behavior Gap is a term that describes the negative impact of poor decisions made by investors.</p>
 
                             <p>Let’s face it. Investing your hard earned dollars is emotional. This sometimes makes us act irrationally. This doesn’t mean we aren’t smart but financial decision making is heavily impacted by human psychology. We are wired to avoid pain and seek pleasure.</p>
