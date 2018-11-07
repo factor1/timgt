@@ -1513,6 +1513,9 @@ fieldset ul {
 textarea {
     height: 420px;
 }
+.request_info_form textarea {
+  height: 495px;
+}
 
 
 /*
