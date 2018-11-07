@@ -7,8 +7,11 @@
                     <h4>Request More Information</h4>
                 </div>
                 <div class="span4">
-                    <label>Name *</label>
+                    <label>First Name *</label>
                     <input type="text" name="Field1" id="Field1" required>
+
+                    <label>Last Name *</label>
+                    <input type="text" name="Field2" id="Field115" required>
 
                     <label>Email *</label>
                     <input type="text" name="Field3" id="Field3" required>
