@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>What is the Behavior Gap?</title>
         <meta name="description" content="The Behavior Gap is a term that describes the negative impact of poor decisions made by investors.">

@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/404.php">
+        <link rel="canonical" href="https://www.timgt.com/404.php">
 
         <title>Page Not Found</title>
 

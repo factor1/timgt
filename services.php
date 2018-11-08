@@ -5,7 +5,7 @@
 
         <title>Services</title>
 
-        <link rel="canonical" href="http://www.timgt.com/services.php">
+        <link rel="canonical" href="https://www.timgt.com/services.php">
 
         <meta name="description" content="TIM believes that each client is unique and has different needs. Therefore, TIM provides different levels of service to meet each client’s needs.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">

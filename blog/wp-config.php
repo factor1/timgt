@@ -6,10 +6,10 @@ define('DB_HOST', 'localhost');
 define('DB_CHARSET', 'utf8mb4');
 define('DB_COLLATE', '');
 define('WP_CONTENT_DIR', dirname(__FILE__));
-define('WP_CONTENT_URL', 'http://www.timgt.com/blog');
+define('WP_CONTENT_URL', 'https://www.timgt.com/blog');
 
 define('WP_PLUGIN_DIR', dirname(__FILE__) . '/plugins');
-define('WP_PLUGIN_URL', 'http://timgt.com/blog/plugins');
+define('WP_PLUGIN_URL', 'https://timgt.com/blog/plugins');
 define('PLUGINDIR', dirname(__FILE__) . '/plugins');
 
 

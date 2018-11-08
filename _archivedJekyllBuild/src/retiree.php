@@ -5,7 +5,7 @@
 
         <title>Have your Company pay your Medical Bills after you retire</title>
 
-        <link rel="canonical" href="http://www.timgt.com/retiree.php">
+        <link rel="canonical" href="https://www.timgt.com/retiree.php">
 
         <meta name="description" content="You are probably wondering what happens to your PRAP contributions once you max out. This account is a great retirement savings tool for medical expenses in retirement which are often overlooked and much larger than people expect.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">

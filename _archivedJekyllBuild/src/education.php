@@ -5,7 +5,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>Education</title>
         <meta name="description" content="">

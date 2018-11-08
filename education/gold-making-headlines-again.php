@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>Gold Making Headlines Again</title>
         <meta name="description" content="Gold has recently become one of the top performing asset classes in the investing world. What financial steps should aviation pros take?">

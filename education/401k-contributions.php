@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>Benefits of Contributing to Your 401(k)</title>
         <meta name="description" content="Does it make financial sense to max out your 401(k) contribution? In many cases for aviation pros, yes. Our graphic provides hypothetical values to explain.">

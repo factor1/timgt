@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>Retirement Health Reimbursement Arrangement (RHRA)</title>
         <meta name="description" content="You will have expenses above Medicare in retirement. An RHRA under Section 213(d) lets employers help with tax-free funds toward medical expenses. Learn more.">

@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>How Market Volatility Affects Your Investments</title>
         <meta name="description" content="Market volatility or the “fear index” can affect your investments. What is this leading indicator and how can you protect your portfolio? TIM explains.">

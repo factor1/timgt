@@ -5,7 +5,7 @@
 
         <title>Benefits of contributing to your 401(K)</title>
 
-        <link rel="canonical" href="http://www.timgt.com/contribute-401k.php">
+        <link rel="canonical" href="https://www.timgt.com/contribute-401k.php">
 
         <meta name="description" content="We are asked this question often. Here is our question: How many times would you give me seven bucks in return for ten? That’s about the average benefit you get in tax breaks.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">

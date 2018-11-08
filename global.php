@@ -1,6 +1,6 @@
 <?php
 // Global URL Replacement
 
-$home_url = 'http://www.timgt.com'
+$home_url = 'https://www.timgt.com'
 
 ?>

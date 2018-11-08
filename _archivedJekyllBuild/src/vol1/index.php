@@ -322,7 +322,7 @@
             <header class="periodical">
                 <div class="row-fluid">
                     <div class="span6">
-                        <a href="http://www.timgt.com/" class="home-link">TIMGT.COM</a>
+                        <a href="https://www.timgt.com/" class="home-link">TIMGT.COM</a>
                     </div>
                     <div class="span6">
                         <p class="vol-num">VOL 1.</p>

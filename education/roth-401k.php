@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>Roth vs. Traditional 401(k) Contributions</title>
         <meta name="description" content="The tax implications of Roth vs. traditional 401(k) are significant and depend on where you are in your earning years. We provide a link to a great resource.">
