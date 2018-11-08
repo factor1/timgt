@@ -5,7 +5,7 @@
 
         <title>Life Insurance</title>
 
-        <link rel="canonical" href="http://www.timgt.com/life-insurance.php">
+        <link rel="canonical" href="https://www.timgt.com/life-insurance.php">
 
         <meta name="description" content="One of the disadvantages of traditional life insurance is the lack of living benefits available for the insured or policy owner.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">

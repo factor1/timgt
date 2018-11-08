@@ -5,7 +5,7 @@
 
         <title>Total Investment Management</title>
 
-        <link rel="canonical" href="http://www.timgt.com">
+        <link rel="canonical" href="https://www.timgt.com">
 
         <meta name="description" content="Our niche is the airline industry. We have a deep bench of qualified financial professionals with a combined 100+ years of experience ready to assist you.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">

@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>When Will You Begin Taking Social Security Benefits?</title>
         <meta name="description" content="Knowing when and how to use your social security benefits can keep you from leaving money on the table. TIM provides planning resources for aviation pros.">

@@ -5,7 +5,7 @@
 
         <title>Investment Management</title>
 
-        <link rel="canonical" href="http://www.timgt.com/partners.php">
+        <link rel="canonical" href="https://www.timgt.com/partners.php">
 
         <meta name="description" content="Total investment management has formed a team of reputable financial services firms to be our partners. Collectively, these companies cover all aspects of wealth management.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">

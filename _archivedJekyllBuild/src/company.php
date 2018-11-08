@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/company.php">
+        <link rel="canonical" href="https://www.timgt.com/company.php">
 
         <title>Company</title>
 

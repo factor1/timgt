@@ -57,7 +57,7 @@
                 content: '';
                 width: 50px;
                 height: 50px;
-                background: url(http://www.timgt.com/img/doublequote-left.svg) no-repeat;
+                background: url(https://www.timgt.com/img/doublequote-left.svg) no-repeat;
                 background-size: 100% auto;
                 position: absolute;
             }
@@ -67,7 +67,7 @@
                 content: '';
                 width: 50px;
                 height: 50px;
-                background: url(http://www.timgt.com/img/doublequote-right.svg) no-repeat;
+                background: url(https://www.timgt.com/img/doublequote-right.svg) no-repeat;
                 background-size: 100% auto;
                 position: absolute;
                 right: 0;
@@ -169,7 +169,7 @@
             }
 
             .partners_header {
-                background: url(http://www.timgt.com/img/periodical-header.jpg);
+                background: url(https://www.timgt.com/img/periodical-header.jpg);
                 background-position: center top;
                 background-size: cover;
             }
@@ -309,7 +309,7 @@
             <header class="periodical">
                 <div class="row-fluid">
                     <div class="span6">
-                        <a href="http://www.timgt.com/" class="home-link">TIMGT.COM</a>
+                        <a href="https://www.timgt.com/" class="home-link">TIMGT.COM</a>
                     </div>
                     <div class="span6">
                         <p class="vol-num">VOL 1.</p>
@@ -321,8 +321,8 @@
    
                 <div class="row-fluid">
                     <section class="partners_header head">
-                       <img src="http://www.timgt.com/img/pilot-face.svg" style="margin-top:-115px">
-                       <img src="http://www.timgt.com/img/did-you-know.png" style="display:block;margin:40px auto;width:200px;padding-bottom:20px;border-bottom:1px solid #76b0da;">
+                       <img src="https://www.timgt.com/img/pilot-face.svg" style="margin-top:-115px">
+                       <img src="https://www.timgt.com/img/did-you-know.png" style="display:block;margin:40px auto;width:200px;padding-bottom:20px;border-bottom:1px solid #76b0da;">
                        <p class="vol-num small">VOL 1.</p>
                        <h1>401k Turbulence
                        <span>What does it mean?</span></h1>
@@ -390,7 +390,7 @@
                         <div class="span6 offset1">
 
                             <figure id="chart">
-                                <img src="http://www.timgt.com/vol1/graph-2.png">
+                                <img src="https://www.timgt.com/vol1/graph-2.png">
                             </figure>
                         
                         </div>

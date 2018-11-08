@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>Risk Reduction in a Bear Market for Positive Results</title>
         <meta name="description" content="Risk management techniques are more effective than timing the market, which is difficult to do. Learn about the impact of timing errors and better strategies.">

@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/client-center.php">
+        <link rel="canonical" href="https://www.timgt.com/client-center.php">
 
         <title>Client Center</title>
         <meta name="description" content="This page as a convenient spot where TIM clients can go, in case they misplaced that important website access information.">

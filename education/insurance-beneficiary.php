@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>Can You Benefit from Your Life Insurance While Alive?</title>
         <meta name="description" content="Changes to traditional life insurance policies are allowing some policyholders to benefit while alive, improving their retirement position. TIM explains.">
