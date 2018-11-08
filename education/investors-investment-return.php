@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>Why is the Average Investor’s Investment Return So Low?</title>
         <meta name="description" content="Do-it-yourself investors tend not to fare well, greatly underperforming most asset classes over the past 20 years. TIM explains why and what to do.">

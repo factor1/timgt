@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/company.php">
+        <link rel="canonical" href="https://www.timgt.com/company.php">
 
         <title>Airlines</title>
         <meta name="description" content="Find out more about TIM programs for your specific airline. Information is outlined for Pilots, Flight Attendants and other personnel to make navigating your financial future an easy task.">

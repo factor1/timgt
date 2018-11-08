@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>CyberSecurity – Tips to Prevent Fraud</title>
         <meta name="description" content="Cybercrime and fraud are serious threats and constant vigilance is key.">

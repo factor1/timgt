@@ -5,7 +5,7 @@
 
         <title>Investment Management</title>
 
-        <link rel="canonical" href="http://www.timgt.com/investment-management.php">
+        <link rel="canonical" href="https://www.timgt.com/investment-management.php">
 
         <meta name="description" content="Investment management, also known as portfolio management, is the professional management of various securities and assets to meet specified investment goals for investors.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">

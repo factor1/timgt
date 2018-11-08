@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/client-application.php">
+        <link rel="canonical" href="https://www.timgt.com/client-application.php">
 
         <title>Client Application</title>
         <meta name="description" content="">

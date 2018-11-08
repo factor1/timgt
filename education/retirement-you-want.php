@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
 
-        <link rel="canonical" href="http://www.timgt.com/education.php">
+        <link rel="canonical" href="https://www.timgt.com/education.php">
 
         <title>Can You Have the Retirement You Want?</title>
         <meta name="description" content="Your retirement savings determine the timing and quality of your retirement. TIM’s process positions aviation pros for success in retirement.">
